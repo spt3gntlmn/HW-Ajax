@@ -1,0 +1,24 @@
+
+    button,
+    div,
+    form,
+    input {
+      margin: 10px;
+      text-align: center;
+    }
+
+    h1 {
+      font-size: 38px;
+      text-align: center;
+    }
+  
+    #add-pastime {
+      background-color: black;
+      font-size: 18px;
+      color: aquamarine;
+      text-decoration-color: brown;
+    }
+
+    body {
+      background-color: tan;
+    }
